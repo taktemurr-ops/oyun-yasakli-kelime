@@ -12,11 +12,11 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 03712efb1978a621943ed9b91d98e4fcad629898
   parti_motoru:
     git:
       url: https://github.com/taktemurr-ops/parti-motoru
-      ref: 2b74679743724c2ef011739345e98b9d811edcee
+      ref: 414a10485f86960d10cc49b1c347ba1ec22ef098
 
 dev_dependencies:
   flutter_test:
